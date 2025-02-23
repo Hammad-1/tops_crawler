@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 2. **Run the Scrapy Spider:**
    ```bash
-   scrapy crawl tops_scraper
+   scrapy crawl tops_spider
    ```
    - This will fetch the product data and save it in `output.json`.
    
